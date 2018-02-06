@@ -1,0 +1,14 @@
+#!/bin/bash
+#cd Maps
+#pwd
+#./RenameEasymap.sh
+#./RenameNormalMap.sh
+#./RenameExtendedMap1.sh
+#./RenameExtendedMap2.sh
+#./RenameExtendedMap3.sh
+#./RenameExtendedMap4.sh
+#./RenameExtendedMap5.sh
+#./RenameExtendedMap6.sh
+#./RenameExtendedMap7.sh
+#cd ..
+/home/splixel/Programs/programming/Flash/Flex/bin/mxmlc TLO.as
